@@ -1,7 +1,3 @@
-## Hi there 👋
-
-## Hi there 👋
-
 # 👋 Salut, moi c'est Abdel-Malik !
 
 💻 **À propos de moi** :  
