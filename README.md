@@ -1,25 +1,24 @@
-# 👋 Salut, moi c'est Abdel-Malik !
+# 👋 Hi, I'm Abdel-Malik!
 
-💻 **À propos de moi** :  
-Étudiant en **BUT Informatique**, je suis passionné par la programmation, la création de contenu, et l'univers de l'esport. Mon objectif est de développer mes compétences techniques tout en explorant des projets qui allient innovation et créativité.  
+## 💻 About Me  
+I’m a **Computer Science undergraduate**, passionate about programming, content creation, and the esports world. My goal is to enhance my technical skills while exploring projects that blend innovation and creativity.
 
-🎮 **Passions** :  
-- La création de contenu autour des jeux vidéo 🎥  
-- La programmation et le développement de projets numériques 🚀  
-- Explorer l'univers compétitif de l'esport et ses opportunités  
+## 🎮 Passions  
+- 🎥 Creating content around video games  
+- 🚀 Programming and developing digital projects  
+- 🏆 Exploring the competitive esports scene and its opportunities  
 
-🚀 **Projets en cours** :  
-- Niveau semi-pro E-sport 🏆  
-- Développer un contenu engageant et professionnel en tant que créateur
-- Obtention d'une licence en informatique
+## 🚀 Ongoing Projects  
+- Achieving a semi-pro level in esports  
+- Producing engaging and professional content as a creator  
+- Earning a computer science degree  
 
-🌱 **Actuellement en train d’apprendre** :  
-- Le montage vidéo pour valoriser mes projets de création de contenu  
-- La programmation pour concevoir des solutions techniques innovantes  
+## 🌱 Currently Learning  
+- 🎞️ Video editing to showcase my content creation projects  
+- 💻 Programming to design innovative technical solutions  
 
-📫 **Me contacter** :  
-- 🌟 **Instagram** : [justbn_off](https://instagram.com/justbn_off)
-- 🎮 **Twitch** : [justbn_](https://twitch.tv/justbn_)  
-- 💬 **Discord** : adf_bn
-- ✉️ **Email professionnel** : [amalik.moussaoui1710@gmail.com](mailto:amalik.moussaoui1710@gmail.com)  
-
+## 📫 Contact Me  
+- 🌟 **Instagram**: [justbn_off](https://instagram.com/justbn_off)  
+- 🎮 **Twitch**: [justbn_](https://twitch.tv/justbn_)  
+- 💬 **Discord**: adf_bn  
+- ✉️ **Professional Email**: [amalik.moussaoui1710@gmail.com](mailto:amalik.moussaoui1710@gmail.com)
